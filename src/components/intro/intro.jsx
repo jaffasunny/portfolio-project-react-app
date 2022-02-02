@@ -1,7 +1,6 @@
 import React from "react";
 import "./intro.css";
-import Me from "../../img/Me.png";
-import Scroll from "../../img/scroll svg.svg";
+import Me from "../../img/Me (no bg).png";
 
 const Intro = () => {
 	return (
