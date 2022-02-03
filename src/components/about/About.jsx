@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import Award from "../../img/award.png";
+// import Award from "../../img/award.png";
 import Disc from "../../img/Me full.png";
 
 const About = () => {
@@ -26,7 +26,7 @@ const About = () => {
 					of Object Oriented Programming, Relational Database (Sql) and Data
 					Structures.
 				</p>
-				<div className="a-award">
+				{/* <div className="a-award">
 					<img src={Award} alt="" className="a-award-img" />
 					<div className="a-award-texts">
 						<h4 className="a-award-title">International Design Awards 2021</h4>
@@ -35,7 +35,7 @@ const About = () => {
 							and fugit.
 						</p>
 					</div>
-				</div>
+				</div> */}
 			</div>
 		</div>
 	);
