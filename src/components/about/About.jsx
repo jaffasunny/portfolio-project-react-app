@@ -19,10 +19,12 @@ const About = () => {
 					readable content.
 				</p>
 				<p className="a-desc">
-					Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-					eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-					minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-					aliquip ex ea commodo consequat duis aute irure dolor in reprehende.
+					A seventh semester Computer Science Undergrad student with a
+					background in web design and development. Good amount of experience
+					adapting to technologies. Carrying expertise in ReactJS tech stack
+					along with strong fundamentals in JavaScript. Also having a good grasp
+					of Object Oriented Programming, Relational Database (Sql) and Data
+					Structures.
 				</p>
 				<div className="a-award">
 					<img src={Award} alt="" className="a-award-img" />

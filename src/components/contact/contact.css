@@ -83,6 +83,15 @@ button {
 	font-weight: 500;
 }
 
+.i-scroll {
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	bottom: 20px;
+	left: 100px;
+	cursor: pointer;
+}
+
 @media screen and (max-width: 480px) {
 	.c-wrapper {
 		flex-direction: column;
@@ -115,7 +124,11 @@ button {
 		margin-left: 0px;
 	}
 
-	button{
+	button {
 		margin-top: 10px;
+	}
+
+	.i-scroll {
+		display: none;
 	}
 }
