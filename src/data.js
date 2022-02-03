@@ -21,8 +21,8 @@ export const products = [
 	},
 	{
 		id: 5,
-		img: "https://images.pexels.com/photos/10659976/pexels-photo-10659976.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-		link: "http://lama.dev",
+		img: "https://previews.dropbox.com/p/thumb/ABY3jp4ptmZsgSdy10Z5j6ytgkQ4_o-SEn4OBC3JzDOrmtIPF9GJoYKbm12adYIQZ-czBfE9KE5tUDE9kt309g05oI6f4_X7r916m_Mu5oEsM1lYeNsrNV_grRFkSHyB_LFw1_HeF09udvad-6YfAw0BkSiB75EvQ85DkLoGCWKA0gSw5BA2-YdJHRLmjTBmIEPgWREShrntGZaikIEENOnAry1LDje-XbPHSeVQOT3vcbIKhzO_b7e710QBne63-8KfuNSJKuAMmB1tTOrMRDT0xplpTioH-HEA21PDgAUFd8PeTtx1ZvWTeLn0DjRl6KUezO2SrpIjg7GmtviZVVO_zpfG0rEhK-Z73GPJlbUZjg/p.png",
+		link: "https://toursproject-reactapp.netlify.app/",
 	},
 	{
 		id: 6,
