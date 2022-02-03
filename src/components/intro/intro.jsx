@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import "./intro.css";
 import Me from "../../img/Me (no bg).png";
 
