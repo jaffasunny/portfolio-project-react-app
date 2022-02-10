@@ -1,7 +1,7 @@
 export const products = [
 	{
 		id: 1,
-		img: "https://dc619.4shared.com/img/5oRxjYpSea/s24/17ee36f4fb0/instagram-clone-reactapp?async&rand=0.6668398830479385",
+		img: "https://dc605.4shared.com/img/qAfYjygmiq/s24/17ee3747030/instagram-clone-reactapp?async&rand=0.9990580830341718",
 		link: "https://instagram-clone-reactapp-db0d8.firebaseapp.com/",
 	},
 	{
