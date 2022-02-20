@@ -6,13 +6,13 @@ export const products = [
 	},
 	{
 		id: 2,
-		img: "https://dc613.4shared.com/img/Nz30UEK1iq/s24/17ec0911a50/slider-react-app?async&rand=0.9871683435031842",
-		link: "sliderproject-reactapp.netlify.app",
+		img: "https://dc772.4shared.com/img/DjZFxWBpiq/s24/17f152c5bd8/linkedIn_clone?async&rand=0.26730866687151233",
+		link: "https://linkedin-clone-project-30b13.firebaseapp.com/",
 	},
 	{
 		id: 3,
-		img: "https://dc613.4shared.com/img/W7Oog7Q7ea/s24/17ec0912220/tabs-project-react-app?async&rand=0.42402394980727354",
-		link: "https://tabsproject-reactapp.netlify.app/",
+		img: "https://dc613.4shared.com/img/Nz30UEK1iq/s24/17ec0911a50/slider-react-app?async&rand=0.9871683435031842",
+		link: "sliderproject-reactapp.netlify.app",
 	},
 	{
 		id: 4,
